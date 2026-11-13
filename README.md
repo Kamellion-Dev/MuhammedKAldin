@@ -18,33 +18,35 @@
 
 ### 🏆 Arcade & Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kamellion-Dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=5&count_private=true" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/Rank-Senior%20Architect-success?style=for-the-badge&logo=gnomedebugging&color=00ffcc&labelColor=18181b" alt="Rank" />
+  <img src="https://img.shields.io/badge/Node.js-Mastermind-blue?style=for-the-badge&logo=nodedotjs&color=339933&labelColor=18181b" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Nest.js-Enterprise-red?style=for-the-badge&logo=nestjs&color=E0234E&labelColor=18181b" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Architecture-Event%20Driven-orange?style=for-the-badge&logo=rabbitmq&color=FF6600&labelColor=18181b" alt="Architecture" />
 </p>
 
 ---
 
-### 📊 System Stats & Streak
-<table align="center" border="0">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Kamellion-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=Kamellion-Dev&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
+### 📊 System Status & Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamellion-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-1,290-informational?style=flat-square&color=00ffcc&labelColor=18181b" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Longest%20Streak-11%20Days-critical?style=flat-square&color=ff5555&labelColor=18181b" alt="Streak" />
+  <img src="https://img.shields.io/badge/System-Operational-success?style=flat-square&color=50fa7b&labelColor=18181b" alt="System Status" />
 </p>
 
 ---
 
-### ⚙️ Tech Stack & Arsenal
+### ⚙️ Core Focus & Expertise
+- **Core Stack:** Node.js, Nest.js, TypeScript, Express, REST/SOAP APIs, Microservices & Event-Driven Pipelines.
+- **Database & Caching:** PostgreSQL, MySQL, MongoDB, Redis, Firebase.
+- **DevOps & Tooling:** Docker, Linux Administration, Git, GitHub Actions, CI/CD.
+- **Full-Stack Ecosystem:** PHP (Laravel), Vue.js, React.js, Python.
+
+---
+
+### 🛠️ Tech Stack Arsenal
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,js,php,vue,react,docker,git,linux,redis,mongodb,mysql,express,postman,vite&perline=8" alt="Tech Icons" />
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,express,docker,redis,postgres,mongodb,mysql,rabbitmq,git,linux,postman,vue,react,php,python&perline=9" alt="Tech Stack Icons" />
   </a>
 </p>
 
