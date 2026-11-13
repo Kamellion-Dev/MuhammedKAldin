@@ -17,7 +17,7 @@
 
 ### 🏆 Arcade & Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kamellion-Dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kamellion-Dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=5&count_private=true" alt="GitHub Trophies" />
 </p>
 
 ---
