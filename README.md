@@ -1,11 +1,6 @@
 <h1 align="center">👋 Hi, I'm Mohamed Kamal (Kamellion-Dev)</h1>
 <h3 align="center">Senior Full-Stack & Node.js Engineer | Distributed Systems & Backend Architect</h3>
 
-## Profile views
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=MuhammedKAldin">
-</a>
-
 ---
 
 ### 🎯 Core Focus & Expertise
@@ -28,6 +23,9 @@
 
 ### 📊 System Status & Metrics
 <p align="center">
+  <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=MuhammedKAldin">
+  </a>
   <img src="https://img.shields.io/badge/Total%20Contributions-1,290-informational?style=flat-square&color=00ffcc&labelColor=18181b" alt="Contributions" />
   <img src="https://img.shields.io/badge/Longest%20Streak-11%20Days-critical?style=flat-square&color=ff5555&labelColor=18181b" alt="Streak" />
   <img src="https://img.shields.io/badge/System-Operational-success?style=flat-square&color=50fa7b&labelColor=18181b" alt="System Status" />
