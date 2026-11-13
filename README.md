@@ -5,6 +5,7 @@
 
 ### 🎯 Core Focus & Expertise
 - **Core Stack:** Node.js, Nest.js, TypeScript, Express, REST/SOAP APIs, Microservices & Event-Driven Pipelines.
+- **AI & LLM Engineering:** RAG, Vector Embeddings, Semantic Search, pgvector, AI Agents & Tool Calling.
 - **Database & Caching:** PostgreSQL, MySQL, MongoDB, Redis, Firebase.
 - **DevOps & Tooling:** Docker, Linux Administration, Git, GitHub Actions, CI/CD.
 - **Full-Stack Ecosystem:** PHP (Laravel), Vue.js, React.js, Python.
