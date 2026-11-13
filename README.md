@@ -47,9 +47,3 @@
     <img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,express,docker,redis,postgres,mongodb,mysql,rabbitmq,git,linux,postman,vue,react,php,python&perline=9" alt="Tech Stack Icons" />
   </a>
 </p>
-
----
-
-### 🌐 Online Portfolio & Connect
-* **Portfolio:** [Check MuhammedKaldin's Portfolio](https://kamellion-dev.github.io/Portfolio/)
-* **LinkedIn:** [in/mohamed-kamal-117026221](https://linkedin.com/in/mohamed-kamal-117026221)
