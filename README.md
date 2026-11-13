@@ -1,60 +1,54 @@
-<h1>👋 Welcome to My Profile </h1>
+<h1 align="center">👋 Hi, I'm Mohamed Kamal (Kamellion-Dev)</h1>
+<h3 align="center">Senior Full-Stack & Node.js Engineer | Distributed Systems & Backend Architect</h3>
 
-<p dir="auto">Interested in:</p>
-
-<ul dir="auto">
-  
-<li><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">
-  📦
-  </g-emoji> 
-  Automation tools creation
-</li>
-  
-<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">
-  🌐
-  </g-emoji> 
-  Web development 
- </li>
-  
-<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">
-  💻
-  </g-emoji> 
-  Desktop Software development
- </li>
-
- <li><g-emoji class="g-emoji" alias="video_game" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ae.png">
-  🎮
-  </g-emoji> 
-  Game development
-</li>
- 
-</ul>
-
-<h1> 🌍 Online Portfolio </h1>
-Check out my portfolio: 
-<a href="https://muhammedkaldin.github.io/Portfolio/"> Check MuhammedKaldin's Portfolio </a>
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammedKAldin&show_icons=true&theme=tokyonight&count_private=true) -->
-
-## ❤ Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/mohamed-kamal-117026221/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
-<!--
-<a href = "https://www.artstation.com/substanceshift"><img width="45px" src="https://cdn.iconscout.com/icon/free/png-128/artstation-3521283-2944702.png"/></a>
-<a href = "https://www.youtube.com/channel/UCTshwAMQrIRTUQvuhfKjZxA/videos"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
--->
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kamellion-Dev&color=00ffcc&style=flat-square&label=SYSTEM+VISITORS" alt="Profile Views" />
 </p>
 
-## Profile views
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=MuhammedKAldin">
-</a>
-<!-- <a href="https://github.com/MuhammedKAldin?tab=followers"><img src="https://img.shields.io/github/followers/MuhammedKAldin?label=Followers&style=social" alt="GitHub Badge"></a> -->
+---
 
-<!---
-MuhammedKAldin/MuhammedKAldin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🎯 Core Focus & Expertise
+- **Core Stack:** Node.js, Nest.js, TypeScript, Express, REST/SOAP APIs, Microservices & Event-Driven Pipelines.
+- **Database & Caching:** PostgreSQL, MySQL, MongoDB, Redis, Firebase.
+- **DevOps & Tooling:** Docker, Linux Administration, Git, GitHub Actions, CI/CD.
+- **Full-Stack Ecosystem:** PHP (Laravel), Vue.js, React.js, Python.
+
+---
+
+### 🏆 Arcade & Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kamellion-Dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=5" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📊 System Stats & Streak
+<table align="center" border="0">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Kamellion-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=Kamellion-Dev&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamellion-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
+
+---
+
+### ⚙️ Tech Stack & Arsenal
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,js,php,vue,react,docker,git,linux,redis,mongodb,mysql,express,postman,vite&perline=8" alt="Tech Icons" />
+  </a>
+</p>
+
+---
+
+### 🌐 Online Portfolio & Connect
+* **Portfolio:** [Check MuhammedKaldin's Portfolio](https://kamellion-dev.github.io/Portfolio/)
+* **LinkedIn:** [in/mohamed-kamal-117026221](https://linkedin.com/in/mohamed-kamal-117026221)
