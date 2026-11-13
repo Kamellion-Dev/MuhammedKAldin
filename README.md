@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Mohamed Kamal (Kamellion-Dev)</h1>
-<h3 align="center">Senior Full-Stack & Node.js Engineer | Distributed Systems & Backend Architect</h3>
+<h3 align="center">Senior Backend & Full-Stack Engineer | Node.js, NestJS, TypeScript & Laravel</h3>
 
 ---
 
