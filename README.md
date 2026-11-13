@@ -1,9 +1,10 @@
 <h1 align="center">👋 Hi, I'm Mohamed Kamal (Kamellion-Dev)</h1>
 <h3 align="center">Senior Full-Stack & Node.js Engineer | Distributed Systems & Backend Architect</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kamellion-Dev&color=00ffcc&style=flat-square&label=SYSTEM+VISITORS" alt="Profile Views" />
-</p>
+## Profile views
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=MuhammedKAldin">
+</a>
 
 ---
 
